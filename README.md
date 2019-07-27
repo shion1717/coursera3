@@ -1,6 +1,6 @@
 ## Repository for Coursera: Getting and Cleaning Data submission
 
-This project was is a submission for the Coursera course: Getting and Cleaning Data, which looks at wearable computing.
+This project is a submission for the Coursera course: Getting and Cleaning Data, which looks at wearable computing.
 
 The data is obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
