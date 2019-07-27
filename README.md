@@ -5,8 +5,8 @@ This project was is a submission for the Coursera course: Getting and Cleaning D
 The data is obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Run the run_analysis.R script (the dplyr library is required) to obtain an output of 2 datasets:
-  1) All the means and standard devation of each measurement, labelled by activity and subject
-  2) The average measurements in the 1st dataset of activity and subject
+  1) All the means and standard devation of each measurement, labelled by activity and subject ("tidied data.csv")
+  2) The average measurements in the 1st dataset of activity and subject ("tidyaverage by activity and subject.csv")
   
 The code book and explanation of each variable is found in the "features_info.txt" file.
 
