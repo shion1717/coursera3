@@ -9,4 +9,5 @@ Run the run_analysis.R script (the dplyr library is required) to obtain an outpu
   2) The average measurements in the 1st dataset of activity and subject
   
 The code book and explanation of each variable is found in the "features_info.txt" file.
+
 The full list of variables is found in the "features.txt" file.
