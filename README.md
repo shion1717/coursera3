@@ -1,4 +1,4 @@
-#Repository for Coursera: Getting and Cleaning Data submission
+## Repository for Coursera: Getting and Cleaning Data submission
 
 This project was is a submission for the Coursera course: Getting and Cleaning Data, which looks at wearable computing.
 
