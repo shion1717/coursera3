@@ -65,3 +65,5 @@
 "64" "fBodyBodyGyroMag-std()"
 "65" "fBodyBodyGyroJerkMag-mean()"
 "66" "fBodyBodyGyroJerkMag-std()"
+"67" "activity"
+"68" "subject"
