@@ -5,7 +5,7 @@ This project is a submission for the Coursera course: Getting and Cleaning Data,
 The data is obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Run the run_analysis.R script (the dplyr library is required) to obtain an output of 2 datasets:
-  1) All the means and standard devation of each measurement, labelled by activity and subject ("tidied data.csv") \n
+  1) All the means and standard devation of each measurement, labelled by activity and subject ("tidied data.csv") <br/>
         This is done by the:<br/>
           a) Appending the test dataset to the train dataset <br/>
           b) Labelling the observations with the subject and activity<br/>
