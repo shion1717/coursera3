@@ -6,11 +6,11 @@ The data is obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity
 
 Run the run_analysis.R script (the dplyr library is required) to obtain an output of 2 datasets:
   1) All the means and standard devation of each measurement, labelled by activity and subject ("tidied data.csv") \n
-        This is done by the:\n
-          a) Appending the test dataset to the train dataset\n
-          b) Labelling the observations with the subject and activity\n
-          c) Assigning appropriate column headers via the "features.txt" file\n
-          d) Extracting all columns containing the mean and standard deviation of each measurement\n
+        This is done by the:<br/>
+          a) Appending the test dataset to the train dataset <br/>
+          b) Labelling the observations with the subject and activity<br/>
+          c) Assigning appropriate column headers via the "features.txt" file<br/>
+          d) Extracting all columns containing the mean and standard deviation of each measurement<br/>
 
   2) The average measurements in the 1st dataset of activity and subject ("tidyaverage by activity and subject.csv")
          This is done using the dplyr library, grouping the earlier dataset by activity and subject, then summarising it.
