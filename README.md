@@ -11,3 +11,5 @@ Run the run_analysis.R script (the dplyr library is required) to obtain an outpu
 The code book and explanation of each variable is found in the "features_info.txt" file.
 
 The full list of variables is found in the "features.txt" file.
+
+The rest of the files in this repository contains the data obtained.
